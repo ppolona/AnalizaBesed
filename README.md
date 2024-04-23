@@ -1,3 +1,3 @@
 # AnalizaBesed
-Repositorij z programom za analizo besed
-Avtor tegaa repozitorija sem jaz
+to je repozitorij za analizo besed ki smo ga naredili na vajah
+Avtorji od tega repozirorija so študenti,
